@@ -1,0 +1,38 @@
+{
+    "identifier": "dev.rouchy.NavigateBetweemBlankLines",
+    "name": "Navigate Betweem Blank Lines",
+    "organization": "Rouchy",
+    "description": "Move the editor cursor to the next / previous blank line",
+    "version": "1.0",
+    "categories": ["commands"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:*"
+    ],
+    
+    "entitlements": {
+        
+    },
+    
+    "commands": {
+        "editor": [
+            {
+                "title": "Move to next blank line",
+                "command": "navigate-betweem-blank-lines.next",
+                "shortcut": "ctrl-command-down",
+                "when": "editorHasFocus"
+            },
+            {
+                "title": "Move to previous blank line",
+                "command": "navigate-betweem-blank-lines.previous",
+                "shortcut": "ctrl-command-up",
+                "when": "editorHasFocus"
+            }
+        ]
+    },
+    
+    "config": [
+    ]
+}
