@@ -6,6 +6,9 @@
     "version": "1.0",
     "categories": ["commands"],
     
+    "repository": "https://github.com/drouchy/nova-blank-lines-navigation",
+    "bugs": "https://github.com/drouchy/nova-blank-lines-navigation/issues",
+      
     "main": "main.js",
     
     "activationEvents": [
