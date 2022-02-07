@@ -1,5 +1,5 @@
 
-**Navigate Betweem Blank Lines** move the editor to the next or previous blank line
+**Navigate Between Blank Lines** move the editor to the next or previous blank line
 
 ![](https://github.com/drouchy/nova-blank-lines-navigation/blob/main/screenshot.png?raw=true)
 

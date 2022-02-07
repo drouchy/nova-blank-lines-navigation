@@ -1,9 +1,9 @@
 {
     "identifier": "dev.rouchy.NavigateBetweemBlankLines",
-    "name": "Navigate Betweem Blank Lines",
+    "name": "Navigate Between Blank Lines",
     "organization": "Rouchy",
     "description": "Move the editor cursor to the next / previous blank line",
-    "version": "1.0",
+    "version": "1.1",
     "categories": ["commands"],
     
     "repository": "https://github.com/drouchy/nova-blank-lines-navigation",

@@ -1,3 +1,7 @@
+## Version 1.1
+
+fix a typo
+
 ## Version 1.0
 
 # commands
